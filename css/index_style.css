@@ -1,0 +1,237 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#home{
+    background-color: #f3ffff;
+    height: 600px;
+}
+.ournav{
+    background-color:#f3ffff!important;
+    /*    border-bottom: 1px solid grey !important;*/
+}
+.logo1{
+    color: #00299a !important;
+    font-weight:bold;
+    font-size: 25px;
+}
+.logo1 span{
+    color: white;
+    background-color:#00299a;
+    border-radius: 20%;
+    padding: 5px 4px
+}
+#home h2{
+    color: #00299a;
+    margin-top: 150px;
+    margin-left: 10px;
+
+}
+#home p{
+    color: #bcbec0;
+    margin-left: 15px;
+}
+#home img{
+    margin-top: 100px;
+}
+.btn1 {
+    color: #00299a;
+    text-decoration: none;  
+    border: solid 2px #00299a ;
+    padding:5px 20px;
+    margin-top: 100px;
+    border-radius: 30px;
+    transition: all 2s;
+}
+.btn2 {
+    background-color:#89a3f8;
+    color: #fff;
+    padding: 5px 20px;
+    margin-top: 100px;
+    border-radius: 40px;
+    text-decoration: none; 
+    transition: all 2s;
+}
+.btn1:hover{
+    text-decoration: none;
+    color: white;
+    background-color: #00299a
+}
+.btn2:hover{
+    text-decoration: none;
+    background-color: #89a3f8;
+    color: #00299a;
+}
+/*------------section-home-end---------------*/
+/*------------section-tracks start---------------*/
+#track h2{
+    color:#00299a;
+    padding: 50px
+}
+.item img{
+    border-radius:70px;
+    padding: 40px;
+}
+#track{
+    border-bottom:#f0f3f6 solid 1px;
+}
+/*-------------------------tracks end-------------*/
+/*start about*/
+#about{
+    padding: 35px;
+}
+#about .h1caption{
+    
+ 
+/*  font-family: Montserrat;*/
+  font-size: 55px;
+  font-weight: 500;
+  color: #002ca7;
+}
+#about .h2caption{
+    
+/*  font-family: Montserrat;*/
+  font-size: 27px;
+  font-weight:500px;
+  color: #4d75e2;
+}
+.btn3 {
+    color:white;
+    text-decoration: none;  
+    background-color:  #00299a ;
+    padding:13px 20px;
+    margin-top: 100px;
+    border-radius: 30px;
+    transition: all 2s;
+}
+.btn3:hover{
+    text-decoration: none;
+    color: white;
+}
+/*end about*/
+/* start testimonial */
+#testimonial{
+    background-color: #f9faff;
+    padding: 35px;
+    
+
+}
+
+.item-caption {
+   margin: 35px;
+
+}
+.name{
+    display: block;
+    font-size:40px;
+    color: #002ca7;
+    font-weight:500;
+/*    font-family: Montserrat-Bold; */
+}
+.item-caption h2{
+
+    font-size:20px;
+    color: 4d75e2;
+    font-weight:300;
+}
+
+.item-caption p{
+
+    font-size: 13px;
+    color: #8a8a8a;
+   /*  font-weight: 200; */
+
+}
+/*end testimonial */
+/*start subscribe */
+#subscribe{
+
+    background-color: #00185a;
+    padding: 55px;
+
+}
+#subscribe .h1caption{
+    width: 360px;
+
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #dae2ff;
+
+
+}
+#subscribe .pcaption{
+   padding-top: 20px;
+    color: #dae2ff;
+    
+  font-size: 15px;
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.40;
+ 
+  text-align: left;
+
+}
+    
+}
+#subscribe img{
+
+    margin: auto
+}
+.btn4 {
+    color:#00299a;
+    font-weight:bold;
+    text-decoration: none;  
+    background-color:#ffff ;
+    padding:8px 30px;
+    border-radius: 30px;
+}
+.input1{
+    border-radius: 30px;
+    height: 40px;
+    width: 300px;
+}
+/*end subscribe */
+/*login page*/
+.ournav1{
+     border-bottom:#babfd2 solid 1px;
+    padding: 11px;
+}
+.sign-in{
+    width: 550px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 20px;
+}
+.sign-in h2{
+    color: #00299a;
+    margin-bottom: 30px;
+}
+#login input{
+    width: 100%;
+    height:37px;
+    margin-bottom: 20px;
+}
+.btn5 {
+    background-color:#3f58bd;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 100px;
+    border-radius: 5px;
+    font-weight:bold;
+    font-size: 20px;
+    text-decoration: none; 
+    transition: all 2s;
+}
+.btn5:hover{
+    text-decoration: none;
+    color: white;
+    background-color: #89a3f8
+        /*end login*/
